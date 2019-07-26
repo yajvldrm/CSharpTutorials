@@ -1,0 +1,4 @@
+C# Keywords - reserved words in a programming language that cannot be used as Identifier. .
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/index
+
+Naka reserba na yan pre, hindi mo na pwd kunin para ariing iyo. . so hindi mo na magagmit yan bilang pangalan ng variable o identifer. .
